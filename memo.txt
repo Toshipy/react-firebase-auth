@@ -1,0 +1,1 @@
+npm i bulma redux react-redux react-router-dom firebase redux-thunk redux-dev tools-extension @types/react-redux @types/react-router-dom
